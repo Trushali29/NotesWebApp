@@ -1,6 +1,6 @@
 # NotesWebApp
 
-# Technologies Used
-EJS, NodeJS
+## Technologies Used
+HTML, EJS, NodeJS
 MongoDB for storing data.
 
